@@ -29,7 +29,7 @@
 // @match *://*.9gag.com/*
 // @match *://*.twitter.com/*
 // @connect api.browser.yandex.ru
-// @downloadURL https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
+// @downloadURL https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js
 // @grant GM_getResourceText
 // @grant GM_xmlhttpRequest
 // @grant GM_info
@@ -38,7 +38,7 @@
 // @inject-into page
 // @require https://code.jquery.com/jquery-3.6.0.min.js
 // @require https://cdn.jsdelivr.net/gh/dcodeIO/protobuf.js@6.X.X/dist/protobuf.min.js
-// @updateURL https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot.user.js
+// @updateURL https://raw.githubusercontent.com/ilyhalight/voice-over-translation/master/dist/vot-cloudflare.user.js
 // ==/UserScript==
 
 /******/ (() => { // webpackBootstrap
